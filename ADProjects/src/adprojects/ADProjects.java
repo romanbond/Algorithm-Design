@@ -16,4 +16,8 @@ public class ADProjects {
         System.out.println(elapsedTime);
     }
 
+    public Test {
+        
+    }
+
 }

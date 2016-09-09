@@ -14,9 +14,11 @@ public class ADProjects {
         long elapsedTime = stopTime - startTime;
 
         System.out.println(elapsedTime);
+        Test();
     }
 
-    public Test {
+    public static void Test (){
+        System.out.println("hello");
         
     }
 
